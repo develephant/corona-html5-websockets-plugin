@@ -1,6 +1,6 @@
-# Corona HTML5 Websockets Plugin
+# Corona HTML5 WebSockets Plugin
 
-__Websockets for Corona HTML5 builds.__
+__WebSockets for Corona HTML5 builds.__
 
 👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
