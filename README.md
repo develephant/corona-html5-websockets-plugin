@@ -31,6 +31,9 @@ end
 
 ws.addEventListener(WsListener)
 ws.connect('ws://<websocket-url>')
+
+--OR (for secure websockets)
+--ws.connect('wss://<websocket-url>')
 ```
 
 ## API
