@@ -2,8 +2,6 @@
 
 __WebSockets for Corona HTML5 builds.__
 
-👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
-
 _Looking for a WebSockets plugin that supports device builds? __[Click here](https://marketplace.coronalabs.com/corona-plugins/websockets)__._
 
 ## Install
@@ -199,5 +197,7 @@ end)
 ```
 
 ---
+
+👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
 &copy;2018 C. Byerley ([develephant](https://develephant.com))
