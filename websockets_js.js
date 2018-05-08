@@ -1,3 +1,7 @@
+//-----------------------------------------------------------------------------
+// Corona HTML5 Websockets Plugin
+// (c)2018 C. Byerley (develephant)
+//-----------------------------------------------------------------------------
 window.websockets_js = {
   ONOPEN: 'OnOpen0',
   ONMESSAGE: 'OnMessage0',
